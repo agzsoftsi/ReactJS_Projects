@@ -1,0 +1,21 @@
+.btn-counter-restart, .btn-counter-click {
+    width: 200px;
+    padding: 10px;
+    background: #eeeeee;
+    color:#323d7a;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.btn-counter-restart:hover {
+    background: #323d7a;
+    color:#eeeeee;
+}
+
+.btn-counter-click:hover {
+    background: #327a38;
+    color:#eeeeee;
+}
