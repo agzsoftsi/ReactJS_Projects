@@ -1,0 +1,27 @@
+.Button-num, .Button-simbol {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #1b1b32;
+    color: white;
+    margin: 5px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.Button-num {
+    background-color: #1b1b32;
+}
+
+.Button-simbol {
+    background-color: darkred;
+}
+
+.Button-simbol:hover {
+    background-color: rgb(172, 101, 2);
+}
+
+.Button-num:hover {
+    background-color: #2c005e;
+}
